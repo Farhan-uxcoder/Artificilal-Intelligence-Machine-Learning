@@ -11,3 +11,15 @@ match color:
         print("Get Ready")
     case _ :
         print("invalid input")
+
+
+color = input("enter the color: ")
+match color:
+    case "green":
+        print("GO!")
+    case "red":
+        print("Stop")
+    case "Orange":
+        print("Get Ready")
+    case _ :
+        print("invalid input")
