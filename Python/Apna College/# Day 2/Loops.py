@@ -1,8 +1,5 @@
-
-a=int(input("enter a value to print yout name"))
-i = int 
-while
-
+a=int(input("enter a value to print your name"))
+i = int
 a=input("enter a value to print your name :")
 count = int(1)
 
@@ -17,8 +14,8 @@ print("after the loop the count is ",i)
  #print numbers from 1 to 5
  j=1
  while j<=5:
-     print(j)
-     j +=1
+        print(j)
+        j +=1
  print("end")
  #print from 5 to 1
  k = 5
