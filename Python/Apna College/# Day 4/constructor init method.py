@@ -3,10 +3,12 @@ class student:
     def __init__(self,name,cgpa):                   #current instance of the class
         print("constructor was called...")
         self.name = name
-        self.cgpa
+        self.cgpa = cgpa
 
 
 stu1 = student("Rahul",9)
-stu1 = student("urvashi",9.3)
-stu1 = student("shradha",9.5)
+stu2 = student("urvashi",9.3)
 
+
+print(stu1.name)
+print(stu2.name)
