@@ -7,4 +7,4 @@ for value in LS:
         print(f"element found at {index+1} ")
         break
     index+=1
-
+ #this is the code fr finding the element in the list
