@@ -7,4 +7,14 @@ for value in LS:
         print(f"element found at {index+1} ")
         break
     index+=1
- #this is the code fr finding the element in the list
+
+#tuple
+tup = (1,2,3,4,5,6,7)
+print(tup)
+ind = 0
+y = 4
+for value in tup:
+    if value == y:
+        print(f"element found at {ind+1}th place")
+        break
+    ind+=1
