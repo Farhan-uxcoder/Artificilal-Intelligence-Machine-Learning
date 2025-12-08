@@ -18,3 +18,7 @@ for value in tup:
         print(f"element found at {ind+1}th place")
         break
     ind+=1
+    
+
+
+#OOPS :Object oriented programming
