@@ -39,4 +39,3 @@ elif color == "Green":
     print("GO!")
 else:
     print("enter a valid color")
-    
