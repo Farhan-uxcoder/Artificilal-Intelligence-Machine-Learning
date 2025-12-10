@@ -23,4 +23,3 @@ class Laptop:
 
 l1 = Laptop("256","16")
 l1.get_info()
-
