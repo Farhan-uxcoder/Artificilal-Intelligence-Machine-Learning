@@ -2,7 +2,7 @@
 The 1st parameter is cls
 they can only access the class objects
 
-we use decorater too
+we use decorater
 @classmethod
 
 '''
@@ -16,7 +16,7 @@ class Laptop:
     
     @classmethod # this changes the behaviour of the method like when we gv the @classmethod on top of any method  the entire becomes the class method
     def get_memoryType(cls):
-        print(f"storage type =  {cls.memory_type} with the RAM of {cls.RAM}")
+        print(f"storage type =  {cls.memory_type}")
     
     
         

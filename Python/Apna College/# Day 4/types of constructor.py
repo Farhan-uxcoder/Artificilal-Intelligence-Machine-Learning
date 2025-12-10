@@ -2,10 +2,10 @@
 #default constructors and parameteriesd constructor
 
 class student:
-    clg_name = "Acharya institute of technology"  #class attributes
+    clg_name = "Acharya institute of technology"  #class attributes (default constructors are those which have the common value for all)
 
     def __init__(self,name,gpa,branch):
-        self.name = name         #method attributes
+        self.name = name                          #method attributes
         self.branch = branch
         self.gpa = gpa
 
