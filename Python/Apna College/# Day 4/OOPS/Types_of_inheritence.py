@@ -15,7 +15,22 @@ There are 3 types of inheritence
             
 2.Multi level inheritence
 The multi level inheritence is the kind of inheritence where one class properties are derived to sub class and those sub class properties are derived to there sub class
-
+|--------------|
+            |    parent    |
+            |--------------|
+                    |
+                    |
+            |--------------|
+            |    child    |
+            |--------------|
+                    |
+            |    sub class |
+            |--------------|
+                    |
+                    |
+            |--------------|
+            |    child    |
+            |--------------|
 
 
 3.Multiple level inheritence
