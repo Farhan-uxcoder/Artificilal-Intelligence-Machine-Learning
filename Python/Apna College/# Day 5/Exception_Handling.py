@@ -14,3 +14,6 @@ except ValueError:
     
 else:
     print(ans)
+    
+finally:
+    print("The code completed")
