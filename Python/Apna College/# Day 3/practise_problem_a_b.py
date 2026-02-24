@@ -21,8 +21,3 @@ print(unique_courses)
 for name,course in info:
     if(course=="english"):
         print(name)
-
-#create a dictionary with the students with there sets of courses
-dict = {}
-for name,course in info:
-    if dict.get(name==none):

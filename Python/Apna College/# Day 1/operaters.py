@@ -61,8 +61,8 @@ print((5>3) or (2<0))
 +,-
 ==,!=,>,>=,<,<=
 not
-and 
+and
 or
 
-if any expression have both operators we go from left to right  
+if any expression have both operators we go from left to right
 '''
