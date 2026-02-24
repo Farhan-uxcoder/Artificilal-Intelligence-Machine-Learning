@@ -1,4 +1,4 @@
-str = "Hello"
+str = "Hello" #ll
 print(str[2:4])
 
 #f strings
